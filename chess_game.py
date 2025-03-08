@@ -13,9 +13,9 @@ ENGINE_PATH = "/usr/local/bin/lc0"
 
 # Weights paths
 WEIGHTS = {
-    "aggressive": "aggressive.pb",
-    "balanced": "/opt/homebrew/Cellar/lc0/0.31.2/share/lc0/weights/42850",
-    "defensive": "defensive.pb",
+    "aggressive": "lc0-v0.31.2-windows-gpu-nvidia-cuda/791556.pb/aggressive.pb",
+    "balanced": "lc0-v0.31.2-windows-gpu-nvidia-cuda/791556.pb/192x15-2022_0418_1738_54_779.pb",
+    "defensive": "lc0-v0.31.2-windows-gpu-nvidia-cuda/791556.pb/defensive.pb",
 }
 
 # Start LC0 engine
